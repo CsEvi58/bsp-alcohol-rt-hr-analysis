@@ -22,3 +22,7 @@ project_data/
 |-- raw_sart/  
 |-- raw_tcx/  
 └-- participants.xlsx # Age, height, weight, BMI, alcohol dose   
+
+**BSP_Project_team_pek.pdf**
+
+The PDF contains a brief written summary of the project, including the research motivation, dataset description, preprocessing steps, statistical methods (Shapiro–Wilk, Friedman, Wilcoxon), visualisations, dose–response exploration, and interpretation of the main findings.
