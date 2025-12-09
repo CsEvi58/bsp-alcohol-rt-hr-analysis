@@ -7,7 +7,7 @@ The complete analysis script, including:
   - Parsing raw SART `.txt` files  
   - Reaction-time feature computation  
   - Parsing Garmin `.tcx` heart-rate data  
-  - Heart-rate and HRV-like feature extraction  
+  - Heart-rate and HRV-like (RMSSD-like) feature extraction  
   - Merging datasets into a unified summary table  
   - Statistical analysis (Shapiro–Wilk, Friedman, Wilcoxon)  
   - BMI integration  
